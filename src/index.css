@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.content.inactive{
+  width: 400;
+  height: 200;
+  background-color: skyblue;
+
+}
+
+.content.active {
+  width: 200;
+  height: 400;
+  background-color: red;
+
+}
